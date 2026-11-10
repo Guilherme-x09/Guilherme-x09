@@ -13,6 +13,3 @@ Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UF
 - **Linguagens:** C e Python (conhecimento básico).
 - **Ferramentas:** GitHub e Linux.
 - **Conceitos:** Estruturas de dados, algoritmos de ordenação , árvores BST e AVL.
-
-### Como entrar em contato?
-- **E-mail:** ximenes.guilherme.contato@gmail.com
